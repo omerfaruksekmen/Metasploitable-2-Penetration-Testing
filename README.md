@@ -2,6 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/omerfaruksekmen"><img src="https://img.shields.io/badge/GitHub-omerfaruksekmen-4c00e6?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"></a>
+  <img src="https://img.shields.io/badge/License-MIT-green?style=for-the-badge" alt="License Badge">
   <img src="https://img.shields.io/badge/-Kali%20Linux-%23557C94?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Kali Linux Badge">
 </p>
 
